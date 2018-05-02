@@ -1,0 +1,24 @@
+/* You can add global styles to this file, and also import other style files */
+@import "~bootstrap/dist/css/bootstrap.css";
+body {
+    padding-top: 80px; 
+ }
+ .starter-template {
+     padding: 3rem 1.5rem;
+     text-align: center;
+ }
+ .jumbotron{
+    width:70%;
+    height:70%;
+    margin: auto;
+    }
+       .carousel-indicators{
+       bottom:0;
+       
+       }
+       .carousel-indicators .active{
+        background-color:#222;
+       }
+       .carousel-indicators li{
+        border-color:#222;
+       }
