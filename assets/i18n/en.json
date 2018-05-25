@@ -1,5 +1,7 @@
 {
     "Title": "Translation demo",
     "WelcomeMessage": "Welcome to the international demo application",
-    "Contact": "Contact"
+    "Contact": "Contact",
+
+     "HowLearnNET_1":"How to learn .NET and C# (<i>CSharp</i>)"
 }
