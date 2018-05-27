@@ -3,5 +3,47 @@
     "WelcomeMessage": "Welcome to the international demo application",
     "Contact": "Contact",
 
-     "HowLearnNET_1":"How to learn .NET and C# (<i>CSharp</i>)"
+    "HowLearnNET_1":"How to learn .NET and C# (<i>CSharp</i>)",     
+    "HowLearnNET_2":"How to become a professional .NET developer",
+    "HowLearnNET_3":"How to learn programming?",
+    "HowLearnNET_4":"If you visited to this site, I assume you are interested in learning .NET and C #. Therefore, in this material I will want to tell you how to learn in such a way that you become a professional programmer relatively quickly (<i>start working as a programmer</ i>).",
+
+    "HowLearnNET_5":"First, we try to recognize what will decide that you will be a programmer. This will allow you to learn in effective way.",
+
+    "HowLearnNET_6":"You have several options or a mix of this options:",
+
+    "HowLearnNET_7":"[1] IT school <br>[2] Stationary programming course <br>[3] Individual learning <br>[4] Practice in the company<br>", 
+
+    "HowLearnNET_8":"And now what to choose? Because every decision is a financial and time cost. Therefore, I will present my experiences, which are my subjective opinion but can help you become a programmer.",
+    
+    "HowLearnNET_9":"At the beginning, I will reject the point related to IT school. We often think that having a higher education is required, perhaps it is true in certain professions. However, the profession of the programmer does not require it. Very rarely, companies require education for a programmer. Getting a job is determined by the level of technical knowledge about technology. In addition, the IT school take several years and learn you things that are not useful for being a programmer.That why, if your goal is to get the job of a junior  programmer in about 1.5 years from the start of intensive learning, then the IT school can't help you.",
+    
+    "HowLearnNET_10":"Next, let's take a look at stationery programming courses. These courses promise to do it a programmer from each person on 1 month. The cost of is between from USD 1,000 to USD 3,000. Such course is a good because it gives you the opportunity to learn programming in an intense way. <b>But be careful!</b> These companies promise to teach each programming in one month. In this way they distort the students' approach to learning programming (but that's the rules of every advertisement). Such a student has a false promise that after the course he will become a programmer - the course will not decide about it.",
+    
+    "HowLearnNET_11":"So, then what determines whether I will can become a programmer? A good question which need to be answered well if I want to get into this profession. Therefore, let's try to tell it as it looks.",
+    
+    "HowLearnNET_12":"Above all, programming learning is quite a difficult process, especially at the beginning. That why you need to learn a lot on your own. You should ensure high quality and intensity of this learning because this aspect will be the most critical. Materials and tools for learning are available online for free or for a fee but their cost is relatively low compared to IT school costs. All online learning can be in the place where you are live, this give you saving time and money. Currently humanity osn't have technology which allows uploud all programming knowlage to your brain, that's why effort will be necessery.",
+    
+    "HowLearnNET_13":"Online learning is good way, but for this you should add something else (make a mix). It's \"something else\" that's work close someone who is an experienced programmer. For achieve this you can to get a practice in the company, where you will had the opportunity work close to programmers. Practice in the company will give you an understand of some practical aspects of programming, which online learning will not give you.",
+
+    "HowLearnNET_14":"To conclude, if we want to become a professional programmer in a relatively short time, then will decide about it <b>online individual learning</b> plus <b>a few months practice in comapny</ b>. IT shool can helpful but as an addition to above aspects described.",
+
+    "HowLearnNET_15":"What to learn and how?",
+    "HowLearnNET_16":"If you decide to learn on its own, you should specify:",
+    "HowLearnNET_17":"[1] what to learn <br> [2] how to learn <br> [3] what educational materials to choose",
+   
+    "HowLearnNET_18":"What to learn? The answer is .NET and C #, but that's not enough answer. Because, when you start working knowledge of C # is not enough, because corporate applications are composed of many components, development of the application is always in some environment where has rules and tools.",
+   
+    "HowLearnNET_19":"Now let's try to define what you should learned as the basic minimum to handle with on the job interview and the first job. You should planned learn that way to cover the following areas:",
+    
+    "HowLearnNET_20":"[1] c# syntax (<i>C-Sharp</i>) <br> [2] .NET libraries (<i>dot net</i>) <br> [3] basics database knowledge (MS SQL Server or Oracle) (<i> MS SQL Server lub Oracle</i>) <br> [4] tool for working with GIT or SVN code <br>",
+
+    "HowLearnNET_21":"Learning the above issues will allow you to start work. In addition, it is worth expanding them to frontend issues, i.e. JavaScript, jQuery or AnguarJS because as more and more corporate applications are created using web technology.",
+    
+    "HowLearnNET_22":"Let's see how to learn the above-mentioned issues and choose materials for learning. Our goal should be understanding each programming aspects in a practical way. It sounds good but what exactly does it mean? Let's try to answer it.It sounds good but what exactly does it mean? Let's try to answer to this. When you start commercial job, the problems described by analysts or users in many different ways and your task will be to understand what it means and translate into pragraming language or solutionn understandable for machines. In other words, you will have to translate the users needed into code and solutions. Additionally you will be embedded in a some environment consisting of tools, applications and solutions witch have many dependencies. <b>To handle with all this, you need focused on understanding aspects of programming.</b> In other words, you should learn to understand how something works and what it is for.",
+    "HowLearnNET_23":"That's why, educational materials should be chosen so that:",
+    "HowLearnNET_24":"[1] explained the issues <br> [2] showed examples <br> [3] explained practical aspects <br> [4] included practical tasks* <br> [5] included solution for practical task",
+    "HowLearnNET_25":"<br><b>*</b>saying about practical tasks I meant the task wher you need write or modifi some code for solve problems. Solving such tasks shows how well you understand certain programming issues and can qualify you to work. <br><br>I haven't told anything about \"ABCD\" tests - they are good but as revision your knowlage or for people who want to applaying additional exams for certificates. Additionally, it's good when your learning end with writing a larger exercise project. Such project you can upload it to GitHub and share link in your CV. What will help you on a job interview.",
+    "HowLearnNET_26":"Approach to internship and recruitment",
+    "HowLearnNET_27":"After one year of intensive learning, you should look for an internship in the company. It is good to start in the project where you will have the chance to writing the code under the supervision of senior developer. Very often it can be that we get non-programming task, e.g. testing. That is why it's worth asking about our future tasks and opportunities for development at the job interview. We need to remember the development our knowledge and experiences that will give us a chance for a better-paid job. The internship also doesn't mean that we stop can learning individually after job hours. You have to learn all the time, no matter what you have the internship or job. That is the profession of programmer, solution and technologies are very quickly changing and you should be learning them otherwise it will be hard to take a well-paid job."
 }
