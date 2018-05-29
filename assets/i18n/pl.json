@@ -1,7 +1,15 @@
 {
     "Title": "Tłumaczenie demo",
     "WelcomeMessage": "czesc",
+
     "Contact": "Kontakt",
+    "Contact_1": "",
+    "Contact_2": "",
+    "Contact_3": "",
+    "Contact_4": "",
+    "Contact_5": "",
+    "Contact_6": "",
+    "Contact_7": "",
 
     "HowLearnNET_1":"Jak się uczyć się .NET i C# (<i>CSharp</i>)",
     "HowLearnNET_2":"Jak zostać profesjonalnym programistą .NET",
@@ -75,6 +83,41 @@
     "Order_42": "39 pytań na rozmowie kwalifikacyjną",
     "Order_43": "13 zadań praktycznych",
     "Order_44": "tytuł płatności:",
-    "Order_45": "twój@email, C# poziom 3"
+    "Order_45": "twój@email, C# poziom 3",
+
+
+    "Menu_1":  " | Jak się uczyć się .NET",
+    "Menu_2":  " | Kursy",
+    "Menu_2_1":  "C# pierwsze kroki",
+    "Menu_2_2":  "C# składnia",
+    "Menu_3":  " | Zamów ",
+    "Menu_4":  " | Kontakt |",
+    "Menu_5":  "",
+    "Menu_6":  "",
+    "Menu_7":  "",
+    "Menu_8":  "",
+    "Menu_9":  "",
+    "Menu_10":  "",
+    "Menu_11": "",
+
+    "FirstSteps_1":  "",
+    "FirstSteps_2":  "",
+    "FirstSteps_3":  "",
+    "FirstSteps_4":  "",
+    "FirstSteps_5":  "",
+    "FirstSteps_6":  "",
+    "FirstSteps_7":  "",
+    "FirstSteps_8":  "",
+    "FirstSteps_9": "",
+
+    "Syntax_1":  "",
+    "Syntax_2":  "",
+    "Syntax_3":  "",
+    "Syntax_4":  "",
+    "Syntax_5":  "",
+    "Syntax_6":  "",
+    "Syntax_7":  "",
+    "Syntax_8":  "",
+    "Syntax_9": ""
 
 }
