@@ -1,7 +1,15 @@
 {
     "Title": "Translation demo",
     "WelcomeMessage": "Welcome to the international demo application",
+    
     "Contact": "Contact",
+    "Contact_1": "",
+    "Contact_2": "",
+    "Contact_3": "",
+    "Contact_4": "",
+    "Contact_5": "",
+    "Contact_6": "",
+    "Contact_7": "",
 
     "HowLearnNET_1":"How to learn .NET and C# (<i>CSharp</i>)",     
     "HowLearnNET_2":"How to become a professional .NET developer",
@@ -14,46 +22,45 @@
     "HowLearnNET_9":"At the beginning, I will reject the point of IT school. We often thinking that having a higher education is required, perhaps it is true in some professions. However, in the profession of the programmer, it does not require it. Very rarely, companies require education for a programmer. Getting a job is dependent on your technical skills. In addition, IT school takes few years and learn you things that are not useful for being a programmer. That why, if yours target is getting a job as a junior developer in about 1.5 years from the start of intensive learning, then the IT school can't help you.",
     "HowLearnNET_10":"Next, let's take a look at Full-time programming course. These courses promise to prepare all students for the programming job in one month. The cost is between from USD 1,000 to USD 3,000. Such course is good because it gives you the opportunity to learn to programme in an intense way. <b>But be careful!</b> These companies promise to teach all students programming in one month. In this way they distort the students' approach to learning programming (<i>but that's the rules of every advertisement</i>). Such student has a false promise that after the course he will become a programmer - course will not decide about it.",
     "HowLearnNET_11":"So, then what the determines I will become a programmer? A good question which needs to be answered correctly if you want to be a professional developer. Therefore, let's try to tell about how it looks.",    
-    "HowLearnNET_12":"First of all, programming learning is quite a difficult process, especially at the beginning. That why you need to learn a lot on your own. You should ensure high quality and intensity of this learning <b>because this aspect will be the most critical</b>. Materials and tools for learning are available online for free or for a fee but their cost is relatively low compared to IT school costs. All online learning can be in the place where you are live, this give you saving time and money. Currently humanity dosn't have technology which allows uploud all programming knowlage to your brain, that's why effort will be necessery.",
-    
-    "HowLearnNET_13":"Online learning is good way, but for this you should add something else (make a mix). It's \"something else\" that's work close someone who is an experienced programmer. For achieve this you can to get a practice in the company, where you will had the opportunity work close to programmers. Practice in the company will give you an understand of some practical aspects of programming, which online learning will not give you.",
-
-    "HowLearnNET_14":"To conclude, if we want to become a professional programmer in a relatively short time, then will decide about it <b>online individual learning</b> plus <b>a few months practice in comapny</ b>. IT shool can helpful but as an addition to above aspects described.",
-
+    "HowLearnNET_12":"First of all, programming learning is quite a difficult process, especially at the beginning. That why you need to learn a lot on your own. You should ensure high quality and intensity of this learning <b>because this aspect will be the most critical</b>. Materials and tools for learning are available online for free or for a fee but their cost is relatively low compared to IT school costs. All online learning can be in the place where you are live, this give you saving time and money. Currently humanity dosn't have technology which allows uploud all programming knowlage to your brain, that's why effort will be necessery.",    
+    "HowLearnNET_13":"Online learning is good way, but for this you should add something else (<i>make a mix</i>). It's \"something else\" that's work close someone who is an experienced programmer. For achieve this you can to get an internship in the company, where you will have the opportunity work close to senior developers. Internship in the company will give you an understanding of some practical aspects of programming, which learn yourself will not give you.",
+    "HowLearnNET_14":"To conclude, if we want to become a professional programmer in a relatively short time, then you will need to spend many hours <b>to learn by yourself</b> plus <b>take a few months internship in a company</b>. IT school can help but as an addition to above aspects described.",
     "HowLearnNET_15":"What to learn and how?",
-    "HowLearnNET_16":"If you decide to learn on its own, you should specify:",
-    "HowLearnNET_17":"[1] what to learn <br> [2] how to learn <br> [3] what educational materials to choose",
-   
-    "HowLearnNET_18":"What to learn? The answer is .NET and C #, but that's not enough answer. Because, when you start working knowledge of C # is not enough, because corporate applications are composed of many components, development of the application is always in some environment where has rules and tools.",
-   
-    "HowLearnNET_19":"Now let's try to define what you should learned as the basic minimum to handle with on the job interview and the first job. You should planned learn that way to cover the following areas:",
-    
-    "HowLearnNET_20":"[1] c# syntax (<i>C-Sharp</i>) <br> [2] .NET libraries (<i>dot net</i>) <br> [3] basics database knowledge (MS SQL Server or Oracle) (<i> MS SQL Server lub Oracle</i>) <br> [4] tool for working with GIT or SVN code <br>",
-
-    "HowLearnNET_21":"Learning the above issues will allow you to start work. In addition, it is worth expanding them to frontend issues, i.e. JavaScript, jQuery or AnguarJS because as more and more corporate applications are created using web technology.",
-    
-    "HowLearnNET_22":"Let's see how to learn the above-mentioned issues and choose materials for learning. Our goal should be understanding each programming aspects in a practical way. It sounds good but what exactly does it mean? Let's try to answer it.It sounds good but what exactly does it mean? Let's try to answer to this. When you start commercial job, the problems described by analysts or users in many different ways and your task will be to understand what it means and translate into pragraming language or solutionn understandable for machines. In other words, you will have to translate the users needed into code and solutions. Additionally you will be embedded in a some environment consisting of tools, applications and solutions witch have many dependencies. <b>To handle with all this, you need focused on understanding aspects of programming.</b> In other words, you should learn to understand how something works and what it is for.",
-    "HowLearnNET_23":"That's why, educational materials should be chosen so that:",
+    "HowLearnNET_16": "If you decide to learn by yourself , you should specify:",
+    "HowLearnNET_17":"[1] what to learn <br> [2] how to learn <br> [3] what educational materials to choose",   
+    "HowLearnNET_18":"What to learn? The answer is .NET and C#, but that's not enough answer. Because, when you start working knowledge of C# is not enough, because corporate applications are composed of many components, development of the application is always in some environment where has many rules and tools.",   
+    "HowLearnNET_19":"Now let's try to define what you should learn as the basic minimum to handle with on the job interview and the first job. You should plan to learn that way to cover the following areas:",
+    "HowLearnNET_20":"[1] c# syntax (<i>C-Sharp</i>) <br> [2] .NET libraries (<i>dot net</i>) <br> [3] basics database knowledge (<i>MS SQL Server lub Oracle</i>) <br> [4] tools for working with code (<i>Visual Studio, GIT, SVN</i>) <br>",
+    "HowLearnNET_21":"Learning the above issues will allow you to start work. In addition, it is good expanding them to frontend issues, i.e. JavaScript, jQuery or Anguar because as more and more corporate applications are created using web technology.",
+    "HowLearnNET_22": "Let's see how to learn the above-mentioned issues and choose materials for learning. Our goal should be understanding each programming aspects in a practical way. It sounds good but what exactly does it mean? Let's try to answer it. It sounds good but what exactly does it mean? Let's try to answer to this. When you start commercial job, the problems described by analysts or users in many different ways and your task will be to understand what it means and translate into pragraming language or solution understandable for machines. In other words, you will have to translate the users needed into code and solutions. Additionally you will be embedded in a some environment consisting of tools, applications and solutions witch have many dependencies. <b>To handle with all this, you need focused on understanding aspects of programming.</b> In other words, you should learn to understand how something works and what it is for.",
+    "HowLearnNET_23":"That's why educational materials should be chosen so that:",
     "HowLearnNET_24":"[1] explained the issues <br> [2] showed examples <br> [3] explained practical aspects <br> [4] included practical tasks* <br> [5] included solution for practical task",
-    "HowLearnNET_25":"<br><b>*</b>saying about practical tasks I meant the task wher you need write or modifi some code for solve problems. Solving such tasks shows how well you understand certain programming issues and can qualify you to work. <br><br>I haven't told anything about \"ABCD\" tests - they are good but as revision your knowlage or for people who want to applaying additional exams for certificates. Additionally, it's good when your learning end with writing a larger exercise project. Such project you can upload it to GitHub and share link in your CV. What will help you on a job interview.",
-    "HowLearnNET_26":"Approach to internship and recruitment",
-    "HowLearnNET_27":"After one year of intensive learning, you should look for an internship in the company. It is good to start in the project where you will have the chance to writing the code under the supervision of senior developer. Very often it can be that we get non-programming task, e.g. testing. That is why it's worth asking about our future tasks and opportunities for development at the job interview. We need to remember the development our knowledge and experiences that will give us a chance for a better-paid job. The internship also doesn't mean that we stop can learning individually after job hours. You have to learn all the time, no matter what you have the internship or job. That is the profession of programmer, solution and technologies are very quickly changing and you should be learning them otherwise it will be hard to take a well-paid job.",
+    "HowLearnNET_25":"<br><b>*</b>saying about practical tasks I meant the task where you need write or modify some code to solve problems. Solving such tasks shows how well you understand programming issues and qualify you to work. <br><br>I haven't told anything about \"ABCD\" tests - they are good but as revision your knowlage or for people who want to applaying additional exams for certificates. Additionally, it's good when your learning ends with writing a larger exercise project. Such project you can upload into GitHub and share the link in your CV. This helps you on a job interview.",    
+    "HowLearnNET_26":"Approach to internship and recruitment",    
+    "HowLearnNET_27":"After one year of intensive learning, you should be looking for an internship in the company. It is good to start in the project where you will have the chance to write the code under the supervision of senior developer. Very often it can be that you get non-programming task, e.g. testing. That is why it's worth asking about our future tasks and opportunities for development at the job interview. We need to remember about development our knowledge and experiences that will give us a chance for a better-paid job. The internship also doesn't mean that you can stop learn by your self after job hours. You have to learn all the time, no matter what you have the internship or job. That is the profession of programmer, solution and technologies are very quickly changing and you should be learning them otherwise it will be hard to take a well-paid job.",
 
-
-    "Order_1": "What they contains exercise cards?",
+    "Order_1": "What they contain exercise cards?",
     "Order_2": "The exercise cards are in PDF format and contain:",
-    "Order_3": "Explanation of the issue.",
+    "Order_3": "Explanation of an issue.",
     "Order_4": "Questions and answers for the interview.",
-    "Order_5": "Task to be solved.",
-    "Order_6": "Sample of exercise card",
-    "Order_7": "How to order exercise cards?",
+    "Order_5": "Tasks for solved.",
+    "Order_6": "The sample of exercise card",
+    "Order_7": "How buy exercise cards?",
     "Order_8": "Zamówienie nie wymagania ani rejestracji ani logowania.",
+
     "Order_9": "Wystarczy wysłać przelew w tytule wpisując adres email, na który będą wysłane karty ćwiczeń oraz nazwę kart ćwiczeń, które chce się zamówić.",
+
     "Order_10": "Przykładowy tytuł przelewu:",
+
     "Order_11": "m.kowalski888@gmail.com, C# poziom 1",
+
+
     "Order_12": "Realizacja 24h",
+
     "Order_13": "Czas realziacji 24h od momentu zaksięgowania wpłaty.",
+
     "Order_14": "Rachunek bankowy dla wpłat:",
+
     "Order_15": "65 1140 2004 0000 3102 7737 3457",
     "Order_16": "Akceptacja regulaminu",
     "Order_17": "Wysłanie przelewu jest równoznaczne z zakupem i akceptcją",
@@ -84,6 +91,40 @@
     "Order_42": "39 questions and answers",
     "Order_43": "13 exercises and solutions",
     "Order_44": "tytuł płatności:",
-    "Order_45": "twój@email, C# poziom 3"
+    "Order_45": "twój@email, C# poziom 3",
+
+    "Menu_1":  "",
+    "Menu_2":  "",
+    "Menu_3":  "",
+    "Menu_4":  "",
+    "Menu_5":  "",
+    "Menu_6":  "",
+    "Menu_7":  "",
+    "Menu_8":  "",
+    "Menu_9":  "",
+    "Menu_10":  "",
+    "Menu_11": "",
+
+    "FirstSteps_1":  "",
+    "FirstSteps_2":  "",
+    "FirstSteps_3":  "",
+    "FirstSteps_4":  "",
+    "FirstSteps_5":  "",
+    "FirstSteps_6":  "",
+    "FirstSteps_7":  "",
+    "FirstSteps_8":  "",
+    "FirstSteps_9": "",
+
+    "Syntax_1":  "",
+    "Syntax_2":  "",
+    "Syntax_3":  "",
+    "Syntax_4":  "",
+    "Syntax_5":  "",
+    "Syntax_6":  "",
+    "Syntax_7":  "",
+    "Syntax_8":  "",
+    "Syntax_9": ""
+
+    
 
 }
