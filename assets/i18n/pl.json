@@ -198,14 +198,44 @@
     "FirstSteps_92": "git clone <link do repo>",
     "FirstSteps_93": "git push -u origin master",
 
+    "Syntax_Order": "Zamów",
     "Syntax_1":  "<b>Składnia C#</b> - ćwiczenia",
     "Syntax_2":  " <i> materiał przeznaczony dla początkujących osób, chcących ćwiczyć swoje swoje umiejętności programowania w C# (CSharp)<br> zawiera:<b>materiały video </b> + <b>karty ćwiczeń</b></i>",
     "Syntax_3":  "Lekcje od 1 do 5",
     "Syntax_4":  "Lekcje od 6 do 10",
     "Syntax_5":  "Lekcje od 11 do 15",
-    "Syntax_6":  "",
-    "Syntax_7":  "",
-    "Syntax_8":  "",
-    "Syntax_9": ""
+    
+    "Syntax_6":  "Kolekcje",
+    "Syntax_7":  "Kolekcje to struktury, które są używane do przechowywania zbiorów (jakiejś ilości) obiektów. Takie kolekcje oferują szereg funkcjonalności umożliwiające wykonywanie operacji na elementach przechowywanych w kolekcji np. sortowanie, odwołanie się, filtrowanie, dodawanie, iterowanie lub ...",
+    "Syntax_8":  "Konstruktor i destruktor",
+    "Syntax_9": "Konstruktor to inaczej metoda, która wywołuje się w momencie powstania obiektu. Konstruktorów może być wiele w jednej klasie z różnymi parametrami wejściowymi i służy do wykonania pewnych operacji, które chcemy wykonać w trakcie tworzenia obiektu np. ustawić jakieś dane w właściwościach. Destruktor to metoda bezparametrowa, która jest wywoływana w momencie niszczenia obiektu i jest on tylko jeden, w której możemy zrobić dodatkowe rzeczy na chwilę przed zniszczeniem obiektu np. zamknąć połączenie na bazę danych. Poniżej przykłady zapisu konstruktora ...",
+    "Syntax_10": "Przeciążania metod (ang. overload)",
+    "Syntax_11": "Gdy mówimy o przeciążeniu to może ono dotyczyć metod lub konstruktorów. Najprościej mówiąc przeciążenie to dublowanie tych samych metod (lub konstruktorów) ale z innymi parametrami wejściowymi (wywołania) i z trochę innym zachowaniem. Poniżej przykład, który obrazuje przeciążenie metody “DisplayName”...",
+    "Syntax_12": "Boxing i unboxing",
+    "Syntax_13": "Pojęcie boxing i unboxing wiąże się z przechodzeniem pomiędzy typami referencyjnymi a wartościowymi. Boxing - jest to konwersja typu wartościowego na typ referencyjny. Unboxing - operacja odwrotna do operacji boxing. Poniżej kod obrazujący operacje pakowania i wypakowan...",
+    "Syntax_14": "Enum",
+    "Syntax_15": "Enum jest typem prostym/wartościowym (value type), który daje naszemu rozwiązaniu ścisłą kontrolę typów. Jeśli chciałbym od pewnych wartości uzależnić zachowanie aplikacji to mógłbym to zrobić opierając się na typie string lub int. Wszystko działałoby dobrze do czasu, gdy do mojego rozwiązania nie dostałaby się wartość której mój kod nie spodziewał się, dlatego że string i int mają dużo możliwości przekazania dowolnej wartości a tak dużej ilości nie jestem wstanie obsłużyć bo np. obsługuję tylko 3 wartości...",
+    "Syntax_16": "Warunki \"if\" oraz \"switch\"",
+    "Syntax_17": "Instrukcja “if” daje nam więcej możliwości w zapisywaniu ilości logicznych wyrażeń niż “switch”, który może przyjmować jedną wartość. Jednak, gdy mamy do napisania dużej ilości bloków warunkowych lepiej użyć “switch”, gdyż jest instrukcją bardziej wydajniejszą niż “if”. Poniższy przykład ma dość skomplikowaną logikę, której nie moglibyśmy zapisać przy użyciu instrukcji switch...",
+    "Syntax_18": "Pętle",
+    "Syntax_19": "Pętla to taki mechanizm, który potrafi wywołać jeden blok kodu wiele razy. Innymi słowy pozwala na kilkakrotne wywołanie tego samego bloku kodu. W C# mamy do dyspozycji następujące pętle...",
+    "Syntax_20": "Typy",
+    "Syntax_21": "Typy to takie definicje obiektów, które mówią o tym jak obiekt ma się zachowywać (metody) i jaki ma być (właściwości lub zmienne). W .NET mamy dwa rodzaje typów...",
+    "Syntax_22": "Konwersja typów",
+    "Syntax_23": "Język zorientowany obiektowo taki jak C# daje możliwość stworzenia definicji  obiektu. Taka definicja to typ, która dla różnych obiektów jest inna. Może zdarzyć się tak, że będziemy potrzebowali zamienić nasz obiekt np. z typu tekstowego (string) na typ liczbowy (int). Takim przykładem może zajść w sytuacji, gdy w konsoli czytamy wartości, które podał użytkownik w postaci tekstu a my potrzebujemy ten tekst zamienić na liczby po to aby wykonać jakąś operację matematyczną. Zobaczymy poniżej przyk...",
+    "Syntax_24": "Tablice",
+    "Syntax_25": "Tablice to struktury, które potrafią przechowywać wiele elementów o tym samym typie. Na przykład tablica typu bool będzie przechowywać wartości tylko true/false. A przykładowa deklaracja takiej tablicy może wyglądać tak...",
+    "Syntax_26": "System.IO.File",
+    "Syntax_27": "Aby pracować z plikami .NET udostępnia nam klasę “File”, która oferuje szereg metod do wykonywania operacji na plikach. Klasa ta jest zlokalizowana w przestrzeni nazw (namespace) “System.IO”. Dlatego aby używać klasy file najpierw musimy zadeklarować namespace na początku pliku *.cs. Przykładowo wygląda to tak...",
+    "Syntax_28": "Namespace",
+    "Syntax_29": "Przestrzenie nazw (namespace) są nieodłącznym elementem każdego projektu. Służą do organizacji naszego kodu (inaczej klas, struktur, interfejsów) w określonej lokalizacji logicznej. Tak jak pliki są umieszczone w różnych folderach, tak nasze klasy (lub struktury, interfejsy) są rozmieszczone w takich logicznych częściach aplikacji każda z tych logicznych części ma swoją nazwę do której można się odwoływać i to są właśnie przestrzenie nazw (namespace). Jak sama nazwa wskazuje przestrzeń nazw to wirtualne miejsce gdzie znajdują się klasy (lub struktury, interfejsy). Najprościej przestrzenie nazw można porównać do nazw ulic czy...",
+    "Syntax_30": "Komentarze w kodzie",
+    "Syntax_31": "Komentarze umieszczamy w kodzie naszej aplikacji. Ich celem jest dostarczenie dodatkowej informacji o tym co dany fragment kodu (np. metody) wykonuje lub za co jest odpowiedzialny. Jest to taki fragment tekstu, który jest dołączony do kodu aplikacji jednak kompilator go nie wykonuje. Komentowanie kodu jest dobrą praktyką programistyczną jednak należy pamiętać, że zbyt duża ilość komentarzy  może spowodować, że kod aplikacji będzie mało przejrzysty. W C# mamy trzy sposoby komentowania kodu - oto one...",
+    "Syntax_32": "NULL",
+    "Syntax_33": "Null mówi, że dana zmienna nie ma referencji (powiązania) do żadnego obiektu. Jeśli nie ma referencji to zadeklarowana zmienna jest pusta (tak jakby bez obiektu)...",
+    "Syntax_34": "String",
+    "Syntax_35": "<b>String</b> reprezentuje dane tekstowe. Zmienna o typie string jest typem referencyjnym i może zawierać dowolne dane tekstowe. W .NET za dane tekstowe odpowiada klasa <b>System.String</b>. Jednak w praktyce posługujemy się zapisem skróconym string. Praca z string’iem wiąże się z wykonywaniem wielu różnych operacji na tekście. Dodatkowo należy być zaznajomionym z często używaną klasą <b> StringBuilder </b>, która oferuję więcej możliwości niż podstawowa klasa string. Szczególnie przydaje się, gdy musimy pracować z tekstem w wielu iteracjach (<i>w pętli</i>)."
+    
+
 
 }
