@@ -137,7 +137,7 @@
     "FirstSteps_17": "To change values ​​in variables",
     "FirstSteps_18": "Allows you to make application behavior dependent on certain values",
     "FirstSteps_19": "Loops \" for\" and \"foreach \"",
-    "FirstSteps_20": "What will appear on the screen? <br> <br> <pre> for (int i = 0; i <5; i ++) <br> & nbsp; & nbsp; & nbsp; Console.Write (i); < / pre> ",
+    "FirstSteps_20": "What will appear on the screen? <br> <br> <pre> for (int i = 0; i <5; i ++) <br> &nbsp; &nbsp; &nbsp; Console.Write (i); </pre> ",
     "FirstSteps_21": "12345",
     "FirstSteps_22": "01234",
     "FirstSteps_23": "1234",
@@ -146,7 +146,7 @@
     "FirstSteps_26": "To store a group of objects / elements",
     "FirstSteps_27": "To exchange data with the database",
     "FirstSteps_28": "Name of the design pattern",
-    "FirstSteps_29": "Classes and Objects - example",
+    "FirstSteps_29": "Classes and Objects",
     "FirstSteps_30": "Why is the object formed from the class?",
     "FirstSteps_31": "The object can not arise from the class",
     "FirstSteps_32": "Because the class is the same as the object",
@@ -211,7 +211,7 @@
     "FirstSteps_91": "git pull <link to repo>",
     "FirstSteps_92": "git clone <link to repo>",
     "FirstSteps_93": "git push -u origin master",
-    
+
     "Syntax_Order": "Order",
     "Syntax_1": "<b> Syntax C#</b> - exercises",
     "Syntax_2": "<i> this material is for beginners who want to practice their programming skills in C # (CSharp) and includes: <b> video materials </b> + <b> exercise cards </b> </i> ",
