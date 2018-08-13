@@ -236,7 +236,7 @@
     "Syntax_21": "Types are such definitions of objects that tell about how an object should behave (methods) and what should be (properties or variables). In .NET, we have two types of types ...",
     "Syntax_22": "Type conversion",
     "Syntax_23": "Object-oriented language such as C # gives you the opportunity to create an object definition.This definition is a type that is different for different objects.It may happen that we will need to replace our object, eg from the text type (string) to type Numerical (int). Such an example can occur in a situation where the console reads the values ​​that the user provided in the form of text and we need to convert this text into numbers in order to perform some kind of mathematical operation.",
-    "Syntax_24": "Boards",
+    "Syntax_24": "Arrays",
     "Syntax_25": "Arrays are structures that can store many elements of the same type, for example a bool table will only store values ​​true / false, and an example of such an array might look like this ...",
     "Syntax_26": "System.IO.File",
     "Syntax_27": "To work with .NET files, we provide the \"File\" class, which offers a number of methods to perform file operations. This class is located in the namespace \"System.IO.\" Therefore, to use the file class first we have to declare namespace at the beginning of the * .cs file. For example, it looks like this ... ",
