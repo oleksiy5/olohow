@@ -96,6 +96,7 @@
     "Menu_2":  " | Kursy",
     "Menu_2_1":  "C# pierwsze kroki",
     "Menu_2_2":  "C# składnia",
+    "Menu_2_3":  ".NET high perform",
     "Menu_3":  " | Zamów ",
     "Menu_4":  " | Kontakt |",
     "Menu_5":  "",
@@ -240,8 +241,9 @@
     "Syntax_32": "NULL",
     "Syntax_33": "Null mówi, że dana zmienna nie ma referencji (powiązania) do żadnego obiektu. Jeśli nie ma referencji to zadeklarowana zmienna jest pusta (tak jakby bez obiektu)...",
     "Syntax_34": "String",
-    "Syntax_35": "<b>String</b> reprezentuje dane tekstowe. Zmienna o typie string jest typem referencyjnym i może zawierać dowolne dane tekstowe. W .NET za dane tekstowe odpowiada klasa <b>System.String</b>. Jednak w praktyce posługujemy się zapisem skróconym string. Praca z string’iem wiąże się z wykonywaniem wielu różnych operacji na tekście. Dodatkowo należy być zaznajomionym z często używaną klasą <b> StringBuilder </b>, która oferuję więcej możliwości niż podstawowa klasa string. Szczególnie przydaje się, gdy musimy pracować z tekstem w wielu iteracjach (<i>w pętli</i>)."
+    "Syntax_35": "<b>String</b> reprezentuje dane tekstowe. Zmienna o typie string jest typem referencyjnym i może zawierać dowolne dane tekstowe. W .NET za dane tekstowe odpowiada klasa <b>System.String</b>. Jednak w praktyce posługujemy się zapisem skróconym string. Praca z string’iem wiąże się z wykonywaniem wielu różnych operacji na tekście. Dodatkowo należy być zaznajomionym z często używaną klasą <b> StringBuilder </b>, która oferuję więcej możliwości niż podstawowa klasa string. Szczególnie przydaje się, gdy musimy pracować z tekstem w wielu iteracjach (<i>w pętli</i>).",
     
-
+    "HP_1": ".NET High performance ",
+    "HP_2": "soon... "
 
 }
