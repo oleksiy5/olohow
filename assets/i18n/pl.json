@@ -244,7 +244,7 @@
     "Syntax_35": "<b>String</b> reprezentuje dane tekstowe. Zmienna o typie string jest typem referencyjnym i może zawierać dowolne dane tekstowe. W .NET za dane tekstowe odpowiada klasa <b>System.String</b>. Jednak w praktyce posługujemy się zapisem skróconym string. Praca z string’iem wiąże się z wykonywaniem wielu różnych operacji na tekście. Dodatkowo należy być zaznajomionym z często używaną klasą <b> StringBuilder </b>, która oferuję więcej możliwości niż podstawowa klasa string. Szczególnie przydaje się, gdy musimy pracować z tekstem w wielu iteracjach (<i>w pętli</i>).",
     
     "HP_1": ".NET High performance ",
-    "HP_2": "Below solutions for improve .NET (C#) code performance.",
+    "HP_2": "Below tips for improving .NET (C#) code performance.",
     "HP_V_1": "Boxing and unboxing - avoid!",
     "HP_V_2": "Use Sealed Classes",
     "HP_V_3": "Collections vs Arrays",
@@ -254,5 +254,7 @@
     "HP_D_2": "soon ...",
     "HP_D_3": "soon ...",
     "HP_D_4": "soon ...",
-    "HP_D_5": "soon ..."
+    "HP_D_5": "soon ...",
+    "HP_O_1": "What contain e-book?",
+    "HP_O_2": "The e-book is in PDF format and contain:"
 }

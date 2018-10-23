@@ -45,7 +45,7 @@
     "Order_4": "Questions and answers for the interview.",
     "Order_5": "Tasks for solved.",
     "Order_6": "The sample of exercise card",
-    "Order_7": "How buy exercise cards?",
+    "Order_7": "How to buy?",
     "Order_8": "The order doesn't require registration.",
 
     "Order_9": "It is enough to click \"Buy Now\" button and enter your email address.",
@@ -251,7 +251,7 @@
     "Syntax_35": "<b>String</b> represents text data The string variable is a reference type and can contain any text data. In .NET, the text data is assigned to the <b> System.String </b> class. However, in practice, we use a shortened string. Working with a string involves many different operations on the text, and you must be familiar with the frequently used class <b> StringBuilder </b>, which offers more possibilities than the basic string class. Especially useful when we have to work with text in many iterations (<i> in the loop </i>). ",
     
      "HP_1": ".NET High performance ",
-     "HP_2": "Below solutions for improve .NET (C#) code performance.",
+     "HP_2": "Below tips for improving .NET (C#) code performance.",
      "HP_V_1": "Boxing and unboxing - avoid!",
      "HP_V_2": "Use Sealed Classes",
      "HP_V_3": "Collections vs Arrays",
@@ -261,5 +261,7 @@
      "HP_D_2": "soon ...",
      "HP_D_3": "soon ...",
      "HP_D_4": "soon ...",
-     "HP_D_5": "soon ..."
+     "HP_D_5": "soon ...",
+     "HP_O_1": "What contain e-book?",
+     "HP_O_2": "The e-book is in PDF format and contain:"
 }
