@@ -256,5 +256,16 @@
     "HP_D_4": "soon ...",
     "HP_D_5": "soon ...",
     "HP_O_1": "What contain e-book?",
-    "HP_O_2": "The e-book is in PDF format and contain:"
+    "HP_O_2": "The e-book is in PDF format and contain:",
+
+    "HP_OI_0": "assets/img/hp0.jpg",
+    "HP_OI_1": "assets/img/hp1.jpg",
+    "HP_OI_2": "assets/img/hp2.jpg",
+    "HP_OI_3": "assets/img/hp3.jpg",
+    "HP_OI_4": "assets/img/hp4.jpg",
+    "HP_OI_5": "assets/img/hp5.jpg",
+    "HP_OT_1": "The sample of e-book",
+    "HP_C_1": "Tips for improving C# code performance",
+    "HP_C_2": "Code examples (C#, .net)",
+    "HP_C_3": "Explaining based performance aspects"    
 }
